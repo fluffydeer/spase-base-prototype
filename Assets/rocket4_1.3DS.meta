@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 3277f1cf25fb2b14c99822bdff17ee59
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Additiona0
+    100002: Additiona1
+    100004: Additional
+    100006: Aileron Le
+    100008: Aileron Ri
+    100010: Antenna
+    100012: Bottom Pr0
+    100014: Bottom Pr1
+    100016: Bottom Pro
+    100018: Fuselage
+    100020: Hydro Arc
+    100022: Jet Engin0
+    100024: Jet Engin1
+    100026: Jet Engine
+    100028: Main Camer
+    100030: Object001
+    100032: PhysCamer0
+    100034: PhysCamer1
+    100036: PhysCamera.target
+    100038: 'Propeller '
+    100040: Propeller0
+    100042: Propeller1
+    100044: //RootNode
+    100046: Rudder
+    100048: Side Door
+    100050: Spacecraft
+    100052: Vectored 0
+    100054: Vectored T
+    100056: Vertical S
+    100058: Wing Left
+    100060: Wing Right
+    400000: Additiona0
+    400002: Additiona1
+    400004: Additional
+    400006: Aileron Le
+    400008: Aileron Ri
+    400010: Antenna
+    400012: Bottom Pr0
+    400014: Bottom Pr1
+    400016: Bottom Pro
+    400018: Fuselage
+    400020: Hydro Arc
+    400022: Jet Engin0
+    400024: Jet Engin1
+    400026: Jet Engine
+    400028: Main Camer
+    400030: Object001
+    400032: PhysCamer0
+    400034: PhysCamer1
+    400036: PhysCamera.target
+    400038: 'Propeller '
+    400040: Propeller0
+    400042: Propeller1
+    400044: //RootNode
+    400046: Rudder
+    400048: Side Door
+    400050: Spacecraft
+    400052: Vectored 0
+    400054: Vectored T
+    400056: Vertical S
+    400058: Wing Left
+    400060: Wing Right
+    2100000: 09 - Default
+    2100002: 15 - Default
+    2100004: 08 - Default
+    2100006: 14 - Default
+    2100008: 'Material #3'
+    2100010: 21 - Default
+    2100012: 02 - Default
+    2100014: 21 - Default1
+    2300000: Additiona0
+    2300002: Additiona1
+    2300004: Additional
+    2300006: Aileron Le
+    2300008: Aileron Ri
+    2300010: Antenna
+    2300012: Bottom Pr0
+    2300014: Bottom Pr1
+    2300016: Bottom Pro
+    2300018: Fuselage
+    2300020: Hydro Arc
+    2300022: Jet Engin0
+    2300024: Jet Engin1
+    2300026: Jet Engine
+    2300028: Object001
+    2300030: 'Propeller '
+    2300032: Propeller0
+    2300034: Propeller1
+    2300036: Rudder
+    2300038: Side Door
+    2300040: Vectored 0
+    2300042: Vectored T
+    2300044: Vertical S
+    2300046: Wing Left
+    2300048: Wing Right
+    3300000: Additiona0
+    3300002: Additiona1
+    3300004: Additional
+    3300006: Aileron Le
+    3300008: Aileron Ri
+    3300010: Antenna
+    3300012: Bottom Pr0
+    3300014: Bottom Pr1
+    3300016: Bottom Pro
+    3300018: Fuselage
+    3300020: Hydro Arc
+    3300022: Jet Engin0
+    3300024: Jet Engin1
+    3300026: Jet Engine
+    3300028: Object001
+    3300030: 'Propeller '
+    3300032: Propeller0
+    3300034: Propeller1
+    3300036: Rudder
+    3300038: Side Door
+    3300040: Vectored 0
+    3300042: Vectored T
+    3300044: Vertical S
+    3300046: Wing Left
+    3300048: Wing Right
+    4300000: Wing Left
+    4300002: Aileron Le
+    4300004: Wing Right
+    4300006: Aileron Ri
+    4300008: Side Door
+    4300010: Antenna
+    4300012: Additional
+    4300014: Additiona0
+    4300016: Additiona1
+    4300018: Vertical S
+    4300020: Rudder
+    4300022: Hydro Arc
+    4300024: Bottom Pro
+    4300026: Bottom Pr0
+    4300028: Bottom Pr1
+    4300030: Jet Engine
+    4300032: 'Propeller '
+    4300034: Jet Engin0
+    4300036: Propeller0
+    4300038: Jet Engin1
+    4300040: Propeller1
+    4300042: Vectored T
+    4300044: Vectored 0
+    4300046: Fuselage
+    4300048: Object001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

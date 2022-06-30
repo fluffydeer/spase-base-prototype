@@ -1,0 +1,55 @@
+{
+  "systems": [
+    {
+      "systemName": "Tutorialova sustava",
+      "systemDescription": "Vysvetluje ovladanie vo VR",
+      "starScale": 0.2,
+      "orbitTilt": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "planets": [
+        {
+          "planetText": "sustava 1",
+          "angularSpeed": 60.0,
+          "initialDegree": 0.0,
+          "radius": 0.3,
+          "planetScale":  0.3,
+          "orbitTilt": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "sceneName": "SteamVR_TestThrow"
+        }
+      ]
+    },
+    {
+      "systemName": "Imperium Kremika",
+      "systemDescription": "Obsahuje prvu sadu svetov",
+      "starScale": 0.2,
+      "orbitTilt": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "planets": [
+        {
+          "planetText": "sustava 2",
+          "angularSpeed": 40.0,
+          "initialDegree": 90.0,
+          "radius": 0.6,
+          "planetScale": 0.3,
+          "orbitTilt": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "sceneName": "Interactions_Example",
+          "texturePath":  "Planet_Textures/2k_mars"
+        }
+      ]
+    }
+  ]
+}
